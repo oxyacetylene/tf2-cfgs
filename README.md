@@ -21,7 +21,7 @@ Individual class configs, and their binds.
 -----
 [MAPNAME].cfg
 
-Usually these are just a certain command to fix the function of an automated Singleplayer map
+Usually these are just a certain command to fix the function of an automated singleplayer map
 -----
 bind_default.cfg
 
